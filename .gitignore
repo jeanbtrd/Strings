@@ -1,0 +1,13 @@
+# .vscode/
+# html/
+# latex/
+# .projectile
+# ASCII-Table.svg
+# Doxyfile
+# Doxyfile-Gastaldo
+# test.txt
+# strings
+*
+!*.c
+!*.h
+!.gitignore
